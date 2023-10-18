@@ -1,0 +1,1 @@
+Le tri a bulles n'est pas le plus efficace car il tri chaque nombre chacun sont tours, le temps pris par ce tri est exponenciel a la grandeur de la liste.
